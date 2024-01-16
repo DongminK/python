@@ -16,3 +16,4 @@ class Data:
 data = Data("김동민|36|A+")
 data.print_age()
 data.print_grade()
+
